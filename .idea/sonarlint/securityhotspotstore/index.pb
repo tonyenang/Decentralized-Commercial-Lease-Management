@@ -7,3 +7,5 @@ R
 "contracts/maintenance-request.clar,d/b/db515b52e56ef8fb621792ca56291ad8f17d5f0d
 T
 $contracts/property-verification.clar,9/2/92aedc8494904be11f2c1570671ab7c7affd1770
+R
+"contracts/tenant-verification.clar,2/b/2be884bbe91f78da8342ae61f2c3085d3fb57c35
